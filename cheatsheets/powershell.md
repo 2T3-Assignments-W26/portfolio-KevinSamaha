@@ -32,7 +32,7 @@ PowerShell is an essential tool for:
 ### PowerShell Version Comparison ###
 | Version | Release Year | Key Features                                                                                  |         
 | 1.0     | 2006         | Initial release Windows XP SP2 and Windows Server 2003.                                       |
-|         |              |                                                                                               |
+|:-------:|--------------|-----------------------------------------------------------------------------------------------|
 | 2.0     | 2009         | Introduced remote management and modules.                                                     |
 |         |              |                                                                                               |
 | 5.1     | 2016         | Last Windows-only version                                                                     |              
