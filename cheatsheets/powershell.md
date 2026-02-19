@@ -1,4 +1,4 @@
-# PowerShell
+# PowerShell #
 
 PowerShell Logo goes here
 
@@ -10,7 +10,7 @@ About PowerShell
 > 
 > _( from the interview with Jeffrey Snover, PowerShell Inventor)_ 
 
-Why Learn PowerShell?
+## Why Learn PowerShell? ##
 PowerShell is an essential tool for:
 Automating repetitive tasks.
 Managing and configuring systems.
@@ -18,7 +18,7 @@ Working with files, processes, and services.
 Interacting with APIs and web services.
 Writing scripts to solve complex problems.
 
-PowerShell Features and Terms
+## PowerShell Features and Terms ##
 Cmdlets: Lightweight commands that perform specific functions.
 Scripting: Write and execute scripts, series of commands, to automate tasks.
 Pipeline: Chain commands together to pass data between them using |.
@@ -31,11 +31,11 @@ PowerShell History
 
 PowerShell Version Comparison
 Version:Release Year:Key Features                            
-1.0:2006:Initial release Windows XP SP2 and Windows Server 2003.
-2.0:2009:Introduced remote management and modules.
-5.1:2016:Last Windows-only version               
-6.0:2018:Known as PowerShell Core 6.0. First cross-platform version.
-7.0:2020:Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
+1. 0:2006:Initial release Windows XP SP2 and Windows Server 2003.
+2. 0:2009:Introduced remote management and modules.
+5. 1:2016:Last Windows-only version               
+6. 0:2018:Known as PowerShell Core 6.0. First cross-platform version.
+7. 0:2020:Unified Windows PowerShell and PowerShell Core, offering a modern, cross-platform experience.
 
 Version Summary
 Windows PowerShell: Versions 1.0 to 5.1 (Windows-only).
@@ -46,12 +46,12 @@ PowerShell for Beginners
 
 Basic Commands to Get Started
 
-Get-Command: Lists all available commands.
-Get-Help: Provides help information for commands.
-Get-Process: Displays all running processes.
-Stop-Process: Stops a specific process.
-Set-Location: Changes the current directory (like cd in Command Prompt).
-New-Item: Creates a new file or directory.
++ Get-Command: Lists all available commands.
++ Get-Help: Provides help information for commands.
++ Get-Process: Displays all running processes.
++ Stop-Process: Stops a specific process.
++ Set-Location: Changes the current directory (like cd in Command Prompt).
++ New-Item: Creates a new file or directory.
 
 Example Script
 
