@@ -8,4 +8,4 @@
 # Here is an example to ignore all files in bin folder 
 # bin/ 
 
-*.txtgit
+*.txt
