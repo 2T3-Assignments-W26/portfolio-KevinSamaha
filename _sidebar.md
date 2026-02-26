@@ -6,3 +6,5 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
+- [Resume](aboutme/Kevin_Samaha_2581729.md)
+- [Projects](aboutme/myProjects.md)
